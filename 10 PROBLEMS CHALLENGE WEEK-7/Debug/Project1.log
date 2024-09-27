@@ -1,0 +1,4 @@
+﻿  bill calculator.cpp
+c:\users\f230636\documents\visual studio 2015\projects\project1\project1\bill calculator.cpp(23): error C2146: syntax error: missing ';' before identifier 'system'
+  VOWEL.cpp
+  Generating Code...

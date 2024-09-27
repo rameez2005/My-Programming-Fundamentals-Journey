@@ -1,0 +1,7 @@
+﻿  Source9.cpp
+  Source8.cpp
+c:\users\f230636\documents\visual studio 2015\projects\project2\project2\source8.cpp(4): warning C4101: 'box_incont': unreferenced local variable
+c:\users\f230636\documents\visual studio 2015\projects\project2\project2\source8.cpp(4): warning C4101: 'cokies_inbox': unreferenced local variable
+  Generating Code...
+  Project2.vcxproj -> c:\users\f230636\documents\visual studio 2015\Projects\Project2\Debug\lab 8 ...exe
+  Project2.vcxproj -> c:\users\f230636\documents\visual studio 2015\Projects\Project2\Debug\lab 8 ...pdb (Partial PDB)

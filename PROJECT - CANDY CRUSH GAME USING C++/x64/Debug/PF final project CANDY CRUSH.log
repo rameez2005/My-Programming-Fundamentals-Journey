@@ -1,0 +1,4 @@
+﻿  candy crush.cpp
+E:\Fast assignments\PF final project CANDY CRUSH\PF final project CANDY CRUSH\candy crush.cpp(264,13): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+E:\Fast assignments\PF final project CANDY CRUSH\PF final project CANDY CRUSH\candy crush.cpp(905,9): warning C4101: 'score': unreferenced local variable
+  PF final project CANDY CRUSH.vcxproj -> E:\Fast assignments\PF final project CANDY CRUSH\x64\Debug\PF final project CANDY CRUSH.exe
